@@ -27,7 +27,7 @@ PrimalDeck te plonge dans l'univers des dinosaures à travers une expérience de
 - **🏆 Quêtes** — accomplis des objectifs pour progresser et débloquer des récompenses.
 - **🗂️ Collection** — construis et complète ta collection ultime.
 
-Le jeu s'appuie sur **DiKnow**, une encyclopédie interactive dédiée aux dinosaures.
+Le jeu s'appuie sur **[DiKnow](https://github.com/Sh1v4x/DiKnow)**, une encyclopédie interactive dédiée aux dinosaures.
 
 ## 📥 Installation (Android)
 
