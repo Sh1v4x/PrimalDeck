@@ -19,6 +19,15 @@ PrimalDeck est un jeu mobile de collection de cartes inspiré des TCG : ouvre de
 
 ---
 
+## 📸 Aperçu
+
+<div align="center">
+<img src="docs/screenshots/collection.jpg" alt="Ma collection : cartes de dinosaures classées par rareté" width="23%" />
+<img src="docs/screenshots/boosters.jpg" alt="Ouverture de boosters : set Expédition Jungle" width="23%" />
+<img src="docs/screenshots/quetes.jpg" alt="Quêtes quotidiennes et hebdomadaires" width="23%" />
+<img src="docs/screenshots/boutique.jpg" alt="Boutique : packs de cartes et offres" width="23%" />
+</div>
+
 ## 🎮 Le jeu
 
 PrimalDeck te plonge dans l'univers des dinosaures à travers une expérience de collection addictive :
